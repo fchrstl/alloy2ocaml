@@ -1,2 +1,2 @@
 # alloy2ocaml
-Compiler from Alloy sorces to OCaml types
+Compiler from Alloy sources to OCaml types
